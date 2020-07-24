@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932387179888",
+    "firebase_url": "https://fir-d45c0.firebaseio.com",
+    "project_id": "fir-d45c0",
+    "storage_bucket": "fir-d45c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932387179888:android:2e7314682660c0f14893b5",
+        "android_client_info": {
+          "package_name": "com.example.FireBaseMark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932387179888-11j3el5ace5h1dqvu0j00i4t6fajspvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulLUooyBpMOEJxsob5oQDb_ZwkjxReZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932387179888-11j3el5ace5h1dqvu0j00i4t6fajspvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
